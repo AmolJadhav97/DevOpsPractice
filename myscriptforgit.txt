@@ -1,0 +1,8 @@
+First git commmit
+:qw
+ls
+:qw
+:wq
+:q!
+clear
+i
